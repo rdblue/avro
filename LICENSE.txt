@@ -721,7 +721,7 @@ Both are included under the terms of the MIT license:
 | THE SOFTWARE.
 
 ----------------------------------------------------------------------
-License for portions of idl.jj in the Java IPC implementation:
+License for portions of idl.jj in the Java compiler implementation:
 
 Portions of idl.jj were modeled after the example Java 1.5
 parser included with JavaCC. For those portions:
